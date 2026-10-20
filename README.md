@@ -32,4 +32,4 @@ Curated comprehensive study guides, roadmaps, and day-by-day notes for Artificia
   - SQL & Python Interview Problem Solving
   - Project Deep Dive, Resume Defense & Technical Mock Interviews
 - **Comprehensive Guide**:
-  - `Complete_Data_Science_Engineer_Study_Guide.md` & `.docx`
+  - `Complete_Data_Science_Engineer_Study_Guide.pdf`, `.docx` & `.md`
